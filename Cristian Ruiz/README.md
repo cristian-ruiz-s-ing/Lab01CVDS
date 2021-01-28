@@ -45,5 +45,9 @@ Print("Hello world")
 ```
 
 ## Imágenes parte 3
-![](C:\Users\crist\Lab01CVDS\Cristian Ruiz\Captura1.png)
-![](C:\Users\crist\Lab01CVDS\Cristian Ruiz\Captura2.png)
+
+
+![](C:/Users/crist/Lab01CVDS/Cristian Ruiz/Captura1.PNG)
+
+
+![](C:/Users/crist/Lab01CVDS/Cristian Ruiz/Captura2.PNG)
