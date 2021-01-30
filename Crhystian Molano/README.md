@@ -4,8 +4,8 @@
 
 **Nombres:** Crhystian Camilo
 **Apellidos:** Molano Chacon
-**Edad: ** *21*
-**fecha de nacimiento: ** *1/abril/1999*
+**Edad:** *21*
+**fecha de nacimiento:** *1/abril/1999*
 
 **Carrera:** *Ingeniería de sistemas*
 
