@@ -23,10 +23,9 @@ A continuación, enumerare mis temas de interés de mayor a menor:
 4. Big Data
 
 
-Actual mente sigo estudiando en la escuela colombiana de ingeniería, me gusta mucho estudiar, aquí ya que
-se nota que la educación que prestan es de alta calidad, siempre apoyan mucho a nosotros los estudiantes, 
-si quieres estudiar en esta institución puedes averiguar toda la información general en la pagina oficial
-de la escuela, te la daré a continuación: 
+Actualmente sigo estudiando en la escuela colombiana de ingeniería, me gusta mucho estudiar aquí, se nota que
+la educación que prestan es de alta calidad, siempre apoyan mucho a nosotros los estudiantes, si quieres estudiar
+en esta institución puedes averiguar toda la información general en la página oficial de la escuela, te la daré a continuación:
 
 ### Enlace Oficial 
 
@@ -46,7 +45,7 @@ for(int i=0;i<10;i++){
 ## Imágenes sobre GIT
 
 
-![](/main.PNG)
+![](//main.PNG)
 
 
-![](/remote.PNG)
+![](//remote.PNG)
